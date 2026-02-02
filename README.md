@@ -11,5 +11,7 @@
 5. Ready for deployment & execution
 
 ## To run the application directly in Windows
+# Prerequisites
+- Java JDK 17 or higher.
 1. Open command prompt in window
 2. Execute the JAR: "java -jar target/MineSweeper-1.0-SNAPSHOT.jar"
